@@ -9,7 +9,7 @@ Building solutions that matter, one line of code at a time.
 
 ## 🚀 About Me
 
-I'm a developer who loves crafting elegant solutions to complex problems. With expertise across **frontend**, **backend**, and **game development**, I'm driven by curiosity and the desire to create impactful digital experiences. When I'm not coding, you'll find me exploring new technologies or contributing to open-source projects.
+I'm a developer who loves crafting elegant solutions to complex problems. With expertise across **frontend**, **backend**, and **game development**, I'm driven by curiosity and the desire to creat[...]
 
 ---
 
@@ -36,6 +36,7 @@ I'm a developer who loves crafting elegant solutions to complex problems. With e
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![MongoDB](https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=green)
@@ -53,11 +54,9 @@ I'm a developer who loves crafting elegant solutions to complex problems. With e
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shadrach3010&theme=dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github)
+![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=Shadrach3010&theme=dark)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shadrach3010&theme=dark&hide_border=true&stroke=0000)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shadrach3010&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shadrach3010&theme=dark)
 
 </div>
 
